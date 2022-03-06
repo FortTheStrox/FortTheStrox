@@ -1,3 +1,5 @@
+<img src="github_readme_banner.png">
+
 ### Hi there 👋 My name is Jared Erlien!
 
 #### My passions lie in coding and security!
